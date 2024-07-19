@@ -1,7 +1,5 @@
--- phpMyAdmin SQL Dump
--- version 5.2.1
--- https://www.phpmyadmin.net/
---
+
+
 -- Servidor: localhost:3306
 -- Tiempo de generación: 08-04-2024 a las 10:46:07
 -- Versión del servidor: 10.6.16-MariaDB-0ubuntu0.22.04.1
